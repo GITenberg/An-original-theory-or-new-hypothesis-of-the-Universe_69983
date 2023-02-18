@@ -1,0 +1,29 @@
+_repo: An-original-theory-or-new-hypothesis-of-the-Universe_69983
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wright, Thomas
+    birthdate: 1859
+    deathdate: 1936
+    gutenberg_agent_id: '1436'
+    url: http://www.gutenberg.org/2009/agents/1436
+description: ''
+gutenberg_issued: '2023-02-07'
+identifiers:
+  gutenberg: '69983'
+language: en
+pgterms:marc904: https://archive.org/details/b30409445/page/n5/mode/2up
+pgterms:marc905: 20210902034053wright
+pgterms:marc906: '1750'
+pgterms:marc907: GB
+production_note: Tim Lindell, T Cosmas and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bH. Chapelle, $c1750.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: An original theory or new hypothesis of the Universe
+url: http://www.gutenberg.org/ebooks/69983
