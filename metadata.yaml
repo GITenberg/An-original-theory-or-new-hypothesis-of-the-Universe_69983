@@ -1,5 +1,8 @@
 _repo: An-original-theory-or-new-hypothesis-of-the-Universe_69983
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69983-h/images/cover.png
 creator:
   author:
     agent_name: Wright, Thomas
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '1436'
     url: http://www.gutenberg.org/2009/agents/1436
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69983#An-original-theory-or-new-hypothesis-of-the-Universe
 gutenberg_issued: '2023-02-07'
 identifiers:
   gutenberg: '69983'
